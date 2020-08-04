@@ -1,7 +1,7 @@
 # DSC-Codicon
 Concepts and Puzzles discussed in DSC Codidcon session
 
-<a href="https://drive.google.com/file/d/1bLIFwjT8JaDRWua4Cy1gelDyoBx6Pfv_/view?usp=sharing">View course content</a>
+<a href="https://drive.google.com/file/d/1bLIFwjT8JaDRWua4Cy1gelDyoBx6Pfv_/view?usp=sharing" target="_blank">View course content</a>
 
 Program File -> Concept demonstrated
 
