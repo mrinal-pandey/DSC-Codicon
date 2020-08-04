@@ -1,8 +1,6 @@
 # DSC-Codicon
 Concepts and Puzzles discussed in DSC Codidcon session
 
-<a href="https://drive.google.com/file/d/1bLIFwjT8JaDRWua4Cy1gelDyoBx6Pfv_/view?usp=sharing">View course plan</a>
-
 Program File -> Concept demonstrated
 
 Array.java -> Checking conditions before updation, stopping programs from crashing<br>
